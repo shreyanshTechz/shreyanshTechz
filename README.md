@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey There!👋, I am Shreyansh Pandey
 
-<!--
-**shreyanshTechz/shreyanshTechz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/shreyansh-pandey-093b23201/">
+  <img align="left"   alt="Shreyansh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg""/>
+</a>
+<a href="https://www.instagram.com/shreyansh_pandey123/">
+  <img align="left" alt="Shreyansh's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
+</a>
+<br/>
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+                                   
+                                   
+*Talking about Personal Stuff:*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👀 I’m interested in SDE Roles.
+* 🌱 I’m currently studying at NIT Jalandhar.
+* 💞 I’m looking to contribute in Full Stack Development.
+* 📫 Reach me at shreyansh.fractal2000@gmail.com
