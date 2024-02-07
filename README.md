@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Events**
+- 🔭 I’m currently working on **Events(A Full Stack Web Application For College Students)**
 
 - 🌱 I’m currently learning **NextJs, Firebase, Docker**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyansh-pandey-093b23201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyansh-pandey-093b23201/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyansh-pandey-093b23201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyansh-pandey-093b23201/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyansh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyansh2002" height="30" width="40" /></a>
 </p>
 
